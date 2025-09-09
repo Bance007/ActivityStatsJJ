@@ -1,0 +1,1 @@
+﻿start: python discord-playtime-bot.py
